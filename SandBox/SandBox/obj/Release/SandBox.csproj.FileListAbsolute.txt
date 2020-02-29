@@ -1,0 +1,9 @@
+C:\Users\johng\CodeToUse\SandBox\SandBox\bin\Release\SandBox.exe.config
+C:\Users\johng\CodeToUse\SandBox\SandBox\bin\Release\SandBox.exe
+C:\Users\johng\CodeToUse\SandBox\SandBox\bin\Release\SandBox.pdb
+C:\Users\johng\CodeToUse\SandBox\SandBox\bin\Release\Newtonsoft.Json.dll
+C:\Users\johng\CodeToUse\SandBox\SandBox\bin\Release\Newtonsoft.Json.xml
+C:\Users\johng\CodeToUse\SandBox\SandBox\obj\Release\SandBox.csprojAssemblyReference.cache
+C:\Users\johng\CodeToUse\SandBox\SandBox\obj\Release\SandBox.csproj.CopyComplete
+C:\Users\johng\CodeToUse\SandBox\SandBox\obj\Release\SandBox.exe
+C:\Users\johng\CodeToUse\SandBox\SandBox\obj\Release\SandBox.pdb
